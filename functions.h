@@ -1,8 +1,8 @@
-
 #ifndef _FUNCTIONS_H
 #define _FUNCTIONS_H
 
 #include <string>
+
 
 #include <windows.h>
 #include <stdlib.h>

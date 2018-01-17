@@ -45,3 +45,26 @@
 
 1503837585 c:\users\admin\documents\qt-workspace\keyly\config.h
 
+1503833946 source:f:\documents\qt-workspace\keyly\functions.cpp
+	"functions.h"
+
+1475194044 f:\documents\qt-workspace\keyly\functions.h
+	<string>
+	<windows.h>
+	<stdlib.h>
+
+1503834591 source:f:\documents\qt-workspace\keyly\main.cpp
+	"main.h"
+
+1475194044 f:\documents\qt-workspace\keyly\main.h
+	<iostream>
+	<fstream>
+	<string>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	"config.h"
+	"functions.h"
+
+1503833985 f:\documents\qt-workspace\keyly\config.h
+

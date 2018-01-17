@@ -1,18 +1,13 @@
 <img src="KeyLy.PNG" width="85">
 <h2>KeyLy</h2>
-#A powerfull and awesome Keylogger(Your keyboard and your mouse) realy helpfull for hackers! :-P<br>
-	Created @ 08.08.2017
-	Copyright (C) 2017 Sanix Darker
-
-	This program is free software: you can redistribute it and/or modify
-	it under the terms of the GNU General Public License as published by
-	the Free Software Foundation, either version 3 of the License, or
-	(at your option) any later version.
-
-	This program is distributed in the hope that it will be useful,
-	but WITHOUT ANY WARRANTY; without even the implied warranty of
-	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-	GNU General Public License for more details.
-
-	You should have received a copy of the GNU General Public License
-	along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#A powerfull and awesome Keylogger(Your keyboard and your mouse) realy helpfull for hackers! :-P
+<table style="width:100%;">
+	<tr>
+		<td><img src="img/img1.PNG"><br>Source code on Code blocs</td>
+		<td><img src="img/img2.PNG"><br> KeyLy collecting informations</td>
+	</tr>
+	<tr>
+		<td><img src="img/img3.PNG"><br> The directory where Keyly save logs</td>
+		<td><img src="img/img4.PNG"><br> Keyly capture an <b>"email"</b> and a <b>"password"</b> from facebook's target</td>
+	</tr>
+</table>

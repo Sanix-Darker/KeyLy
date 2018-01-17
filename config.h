@@ -10,4 +10,5 @@
 #define FILEEXT ".log"
 #define DEBUG
 
+
 #endif /* _CONFIG_H */

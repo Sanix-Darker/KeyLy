@@ -1,4 +1,3 @@
-
 #include "functions.h"
 
 using namespace std;
@@ -26,19 +25,14 @@ string getSelfPath(){
 string dirBasename(string path){
 	if(path.empty())
 		return string("");
-
 	if(path.find("\\") == string::npos)
 		return path;
-
 	if(path.substr(path.length() - 1) == "\\")
 		path = path.substr(0, path.length() - 1);
-
 	size_t pos = path.find_last_of("\\");
 	if(pos != string::npos)
 		path = path.substr(0, pos);
-
 	if(path.substr(path.length() - 1) == "\\")
 		path = path.substr(0, path.length() - 1);
-
 	return path;
 }
