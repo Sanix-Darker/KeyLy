@@ -1,6 +1,13 @@
-<img src="KeyLy.PNG" width="85">
-<h2>KeyLy</h2>
-#A powerfull and awesome Keylogger(Your keyboard and your mouse) just to learn! :-P
+<img src="KeyLy.PNG">
+
+# KeyLy
+
+## Introduction
+
+A powerfull and awesome Keylogger(Your keyboard and your mouse) just to learn! :-P
+
+## Renders
+
 <table style="width:100%;">
 	<tr>
 		<td><img src="img/img1.PNG"><br>Source code on Code blocks</td>
@@ -11,3 +18,7 @@
 		<td><img src="img/img4.PNG"><br> Here, Keyly capture an <b>"email"</b> and a <b>"password"</b> from facebook's target</td>
 	</tr>
 </table>
+
+## Author:
+
+- Sanix-darker
